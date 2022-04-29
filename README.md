@@ -31,7 +31,7 @@ An e-commerce website which offers various cosmetic products and health suppleme
 ---  
  <h3>Landing  Page</h3>
   <br>
-   This is our sign up page
+   This is our landing up page
   <br>
   <br>
    <img src="https://miro.medium.com/max/700/1*90jmKbvXVbUqCLzjpk85Rw.png"/>
@@ -82,4 +82,3 @@ https://medium.com/@satishkumarojha15/my-journey-to-create-a-beauty-products-e-c
 ### Netlify Link
  https://loving-cray-867bc6.netlify.app/
 
-https://sage-dolphin-365e39.netlify.app
