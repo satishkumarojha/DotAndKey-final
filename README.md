@@ -5,7 +5,7 @@ An e-commerce website which offers various cosmetic products and health suppleme
 ### Team Members
 
 - **[salove](https://github.com/salove16)**
-- **[Arbaz](https://github.com/Arbaz86 r)**
+- **[Arbaz](https://github.com/Arbaz86)**
 - **[Satish Kumar Ojha](https://github.com/satishkumarojha)** 
 
 ---
