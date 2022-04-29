@@ -31,7 +31,7 @@ An e-commerce website which offers various cosmetic products and health suppleme
 ---  
  <h3>Landing  Page</h3>
   <br>
-   This is our landing up page
+   This is our landing page
   <br>
   <br>
    <img src="https://miro.medium.com/max/700/1*90jmKbvXVbUqCLzjpk85Rw.png"/>
